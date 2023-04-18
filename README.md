@@ -1,6 +1,6 @@
 # INFO201-final-project-repositories-Group27
 INFO 201A Spring 2023 Section AA Group 27
-Members: Henry Ramstad, Ani [LASTNAME], Angela [LASTNAME]
+Members: Henry Ramstad, Ani Ramadurai, Angela [LASTNAME]
 
 
 Story Pitch
