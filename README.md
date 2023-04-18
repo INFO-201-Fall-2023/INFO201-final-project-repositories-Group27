@@ -12,6 +12,17 @@ B) why that is an interesting and compelling story. Your pitch should make a cle
 argument aboutnwhy someone would care about your story and why they might find it
 interesting. 
 
+The airline industry is one of the most integral elements of the American economy.
+The role of the industry is to provide transportation services to commercial, personal, and governmental personal.
+Two of the most prolific events in the American airline industry were the
+attacks of September 11th, 2001 and the Covid-19 Pandemic of 2020. The goal of
+this project is to visualize the affects of Pre and post 9/11 on the airline industry and compare this to
+how the airlines responded when faced with similar restrictive difficulties during the outbreak of the Coronavirus.
+This story is compelling through its potential to give insight into how the airline industry in the United States gained rescilience
+or lost strength between the two damaging events. The data also describes the story of each individual event and how the 
+industry managed or failed to respond. Using Domestic flight data from the years 2000, 2002, 2018, and 2022 this analysis 
+looks at each event singularly before comparing both in a more holistic review.
+
 
 
 Finding Data
@@ -19,6 +30,7 @@ Finding Data
 Where did you download the data (e.g., a web URL)?
 https://www.kaggle.com/datasets/flashgordon/usa-airport-dataset
 https://www.kaggle.com/datasets/jl8771/2022-us-airlines-domestic-departure-data?select=CompleteData.csv
+https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018?select=2018.csv
 
 
 How was the data collected or generated?
