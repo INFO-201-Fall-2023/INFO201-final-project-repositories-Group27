@@ -54,9 +54,10 @@ Finally, your proposal should include sources of inspiration/background research
 
 List no fewer than 5 URLs of articles and other web applications that share common goals and/or features with your proposed project idea.
 And for each of the 5 listed inspirations from above, write at least two bullet point items comparing and contrasting your project idea with the given inspiration. 
-1.
-2.
+1. https://www.bts.gov/data-spotlight/twenty-years-later-how-does-post-911-air-travel-compare-disruptions-covid-19 - This source provided signifcant inspiration to the project, but does not go deeper into specific airlines, airports, or longer term trends
+2. 
 3.
 4.
 5.
+6.
 
