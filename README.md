@@ -1,6 +1,6 @@
 # INFO201-final-project-repositories-Group27
 INFO 201A Spring 2023 Section AA Group 27
-Members: Henry Ramstad, Ani [LASTNAME], Angela [LASTNAME]
+Members: Henry Ramstad, Ani Ramadurai, Angela [LASTNAME]
 
 
 Story Pitch
@@ -28,24 +28,23 @@ Covid-19 had a similar effect on the industry.
 Instead of being scared of hijacking, individuals became incredibly afraid of the damaging virus.
 Government mandates also halted the booming airline industry, increasing restrictions that were passed on to unhappy customers.
 
-
 Finding Data
-
 Where did you download the data (e.g., a web URL)?
+All data was downloaded from published data sets on Kaggle. We got our data from three published data sets, and they can be accessed through the links below.
 https://www.kaggle.com/datasets/flashgordon/usa-airport-dataset
 https://www.kaggle.com/datasets/jl8771/2022-us-airlines-domestic-departure-data?select=CompleteData.csv
-https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018?select=2018.csv
-
+https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018
 
 How was the data collected or generated?
+The data was collected from various websites, such as OpenFlights and Bureau of Transportation Statistics, which have huge databases of different traveling mediums in the USA and stores the on-time performance of flights. Numerous CSV files were used to generate the data.
 
-Make sure to explain who collected the data 
-(not necessarily the same people that host the data), and who or what the data is about?
-
+Make sure to explain who collected the data (not necessarily the same people that host the data), and who or what the data is about?
+The data on Kaggle was published by Ashish Sharma, Jacky Luo, and Yuanyu Mu. However, the data was collected by Jacob Perkins, as well as agencies such as OpenFlights and Bureau of Transportation Statistics. The data showcases compiled data of US domestic flight take off data, combined with airport data, aircraft data, and present weather data during various time periods, including but not limited to before and after the September 2001 Attacks, as well as before and after the COVID-19 Pandemic.
 
 How many observations (rows) are in your data?
 
 How many features (columns) are in the data?
+We are referring to three different CSV files. In the first CSV file that showcases data from 1990 to 2009, there are fifteen columns. In the second CSV file that showcases data in 2018, there are twenty-eight columns. In our final CSV file that showcases data in 2022, there are forty columns. Obviously, we would not be referring to every single column, and will only be referring to those that are relevant to our project.
  
 
 Background Research/Inspiration
