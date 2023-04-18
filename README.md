@@ -13,16 +13,23 @@ argument aboutnwhy someone would care about your story and why they might find i
 interesting. 
 
 The airline industry is one of the most integral elements of the American economy.
-The role of the industry is to provide transportation services to commercial, personal, and governmental personal.
+The role of the industry is to provide transportation services to commercial, personal, and governmental personnel.
 Two of the most prolific events in the American airline industry were the
 attacks of September 11th, 2001 and the Covid-19 Pandemic of 2020. The goal of
-this project is to visualize the affects of Pre and post 9/11 on the airline industry and compare this to
+this project is to visualize the effects of Pre and post 9/11 on the airline industry and compare this to
 how the airlines responded when faced with similar restrictive difficulties during the outbreak of the Coronavirus.
-This story is compelling through its potential to give insight into how the airline industry in the United States gained rescilience
+This story is compelling through its potential to give insight into how the airline industry in the United States gained resilience
 or lost strength between the two damaging events. The data also describes the story of each individual event and how the 
 industry managed or failed to respond. Using Domestic flight data from the years 2000, 2002, 2018, and 2022 this analysis 
-looks at each event singularly before comparing both in a more holistic review.
+looks at each event singularly before comparing both in a more holistic review. particular attention will be spent analyzing
+how the overall industry gained or lost footing (through number of flights) and how individual routes or airports gained 
+notoriety given the circumstances.
 
+9/11's affect on the american psyche and the airline industry was profound. American flights were grounded and the TSA was introduced.
+These elements meant that the way Americans had freely travelled changed dramatically, scaring away previous customers. Such a nation
+wide tragedy also meant that many individuals suffered severe PTSD and trauma when flying, continuing the trend of customers avoiding 
+flight. Covid-19 had a similar affect on the industry. Instead of being scared of hijacking, individuals became incredibly afraid of the 
+damaging virus. Government mandates also halted the booming airline industry, increasing restrictions which were passed on to unhappy customers.
 
 
 Finding Data
