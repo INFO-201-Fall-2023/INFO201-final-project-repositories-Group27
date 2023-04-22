@@ -52,9 +52,8 @@ Finally, your proposal should include sources of inspiration/background research
 List no fewer than 5 URLs of articles and other web applications that share common goals and/or features with your proposed project idea.
 And for each of the 5 listed inspirations from above, write at least two bullet point items comparing and contrasting your project idea with the given inspiration. 
 1. https://www.bts.gov/data-spotlight/twenty-years-later-how-does-post-911-air-travel-compare-disruptions-covid-19 - This source provided signifcant inspiration to the project, but does not go deeper into specific airlines, airports, or longer term trends
-2. 
-3.
-4.
-5.
-6.
+2. https://www.ncbi.nlm.nih.gov/books/NBK578820/ This article is helpful with identifying specific ways the aviation industry combatted the loss of business brough on by COVID and the tactics they used to remain in business and how the tactics used after 9/11 varies. It does not touch on the effects of these events on a psychological level.
+3. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4440492/ This article goes into detail about the psychological damages that 9/11 left on people. It does not mention COVID.
+4. https://www.mckinsey.com/industries/travel-logistics-and-infrastructure/our-insights/back-to-the-future-airline-sector-poised-for-change-post-covid-19 this article goes into detain about what the aviation industry will look like in the future and data on what types of travel are most likely to resume and not resume following the pandemic. This article does not however connect the effects to 9/11s effect on the industry.
+5.https://thehill.com/opinion/finance/488219-lessons-from-9-11-for-the-post-covid-19-airline-industry/ This article goes into detail about the government's role in aiding the aviation industry after 9/11 and COVID-19 and exactly how much money was funded/lost in the aviation industry. This article does not include information on the concerns of airline passengers flying during unprecedented times.
 
