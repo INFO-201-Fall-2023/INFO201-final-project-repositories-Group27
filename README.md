@@ -5,26 +5,11 @@ Members: Henry Ramstad, Ani Ramadurai, Angela Grant
 
 Story Pitch
 
-The airline industry is one of the most integral elements of the American economy.
-The role of the industry is to provide transportation services to commercial, personal, and governmental personnel.
-Two of the most prolific events in the American airline industry were the attacks of September 11th, 2001, and the Covid-19 Pandemic of 2020. The goal of this project is to visualize the effects of Pre and post-9/11 on the airline industry 
-and compare this to how the airlines responded when faced with similar restrictive difficulties during the outbreak of the Coronavirus.
-This story is compelling through its potential to give insight into how the airline industry in the United States gained resilience or lost strength between the two damaging events.
-During the recovery efforts of the post 9/11 airline industry, government funding injected much needed support into the system to attempt 
-build american confidence and bolster failing airlines.
-during the Pandemic, government spending bills like the CARES act sought to provide smaller amounts of stability through what was considered
-a short waiting period between viral spread and the return back to normal. The result of this difference was that post 9/11 injections of capital back into the industry were significantly more profound 
-results wise compared to the partisan supported CARES act which was meant to be bridge support.
-The data also describes the story of each event and how the industry managed or failed to respond. 
-Using Domestic flight data from the years 2000, 2002, 2018, and 2022 this analysis looks at each event singularly before comparing both in a more holistic review.
-particular attention will be spent analyzing how the overall industry gained or lost footing (through the number of flights) and how individual routes or airports gained notoriety given the circumstances.
+The airline industry is one of the most integral elements of the American economy. The role of the industry is to provide transportation services to commercial, personal, and governmental personnel. Two of the most prolific events in the American airline industry were the attacks of September 11th, 2001, and the Covid-19 Pandemic of 2020. The goal of this project is to visualize the effects of Pre and post-9/11 on the airline industry and compare this to how the airlines responded when faced with similar restrictive difficulties during the outbreak of the Coronavirus. This story is compelling through its potential to give insight into how the airline industry in the United States gained resilience or lost strength between the two damaging events. During the recovery efforts of the post 9/11 airline industry, government funding injected much needed support into the system to attempt build american confidence and bolster failing airlines. during the Pandemic, government spending bills like the CARES act sought to provide smaller amounts of stability through what was considered a short waiting period between viral spread and the return back to normal. The result of this difference was that post 9/11 injections of capital back into the industry were significantly more profound results wise compared to the partisan supported CARES act which was meant to be bridge support. The data also describes the story of each event and how the industry managed or failed to respond. Using Domestic flight data from the years 2000, 2002, 2018, and 2022 this analysis looks at each event singularly before comparing both in a more holistic review. particular attention will be spent analyzing how the overall industry gained or lost footing (through the number of flights) and how individual routes or airports gained notoriety given the circumstances.
 
-9/11's effect on the American psyche and the airline industry was profound. 
-American flights were grounded and the TSA was introduced. These elements meant that the way Americans had freely traveled changed dramatically, scaring away previous customers.
-Such a nationwide tragedy also meant that many individuals suffered severe PTSD and trauma when flying, continuing the trend of customers avoiding flight.
-Covid-19 had a similar effect on the industry.
-Instead of being scared of hijacking, individuals became incredibly afraid of the damaging virus.
-Government mandates also halted the booming airline industry, increasing restrictions that were passed on to unhappy customers.
+9/11's effect on the American psyche and the airline industry was profound. American flights were grounded and the TSA was introduced. These elements meant that the way Americans had freely traveled changed dramatically, scaring away previous customers. Such a nationwide tragedy also meant that many individuals suffered severe PTSD and trauma when flying, continuing the trend of customers avoiding flight. Covid-19 had a similar effect on the industry. Instead of being scared of hijacking, individuals became incredibly afraid of the damaging virus. Government mandates also halted the booming airline industry, increasing restrictions that were passed on to unhappy customers.
+
+In addition to the immediate effects of 9/11 and the Covid-19 pandemic on the airline industry, there were also long-term impacts that have persisted beyond the initial shockwaves. One of the most notable effects of 9/11 was the increased focus on security measures, which have become a permanent fixture of air travel. This includes not only the TSA screenings, but also increased security measures on airplanes themselves, such as reinforced cockpit doors and restrictions on carry-on items. Similarly, the Covid-19 pandemic has led to a new normal in terms of health and safety protocols. This includes mask mandates, social distancing requirements, and enhanced cleaning procedures. While these measures were initially introduced as temporary solutions, many of them have remained in place even as travel has resumed.
 
 Finding Data
 Where did you download the data (e.g., a web URL)?
