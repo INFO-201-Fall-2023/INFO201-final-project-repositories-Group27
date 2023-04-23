@@ -40,7 +40,7 @@ Make sure to explain who collected the data (not necessarily the same people tha
 The data on Kaggle was published by Ashish Sharma, Jacky Luo, and Yuanyu Mu. However, the data was collected by Jacob Perkins, as well as agencies such as OpenFlights and Bureau of Transportation Statistics. The data showcases compiled data of US domestic flight take off data, combined with airport data, aircraft data, and present weather data during various time periods, including but not limited to before and after the September 2001 Attacks, as well as before and after the COVID-19 Pandemic.
 
 How many observations (rows) are in your data?
-
+In our data, there are approximately a total of 900 rows.
 How many features (columns) are in the data?
 We are referring to three different CSV files. In the first CSV file that showcases data from 1990 to 2009, there are fifteen columns. In the second CSV file that showcases data in 2018, there are twenty-eight columns. In our final CSV file that showcases data in 2022, there are forty columns. Obviously, we would not be referring to every single column, and will only be referring to those that are relevant to our project.
  
