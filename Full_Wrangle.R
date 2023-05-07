@@ -51,5 +51,8 @@ df_2022$year <- as.numeric(df_2022$year)
 
 
 combined_df <- rbind(df_2000, df_2002, df_2018, df_2022)
+monthly_counts <- group_by(combined_df, month, year)
+df_perc <- summarize(monthly_counts, percent_monthly_flights = (100 * Flights) / sum(Flights))
+combined_df$percent_monthly_flights <- df_perc$percent_monthly_flights
 write.csv(combined_df, 'full_dataset.csv')
 
