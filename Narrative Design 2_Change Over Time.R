@@ -4,17 +4,12 @@ library(tidyr)
 
 data <- read.csv("full_dataset.csv")
 
-filtered_data <- data %>%
-  filter(ORIGIN == "SEA" | DEST == "SEA")
+filtered_data <- filter(data, ORIGIN == "SEA" | DEST == "SEA")
 
-flight_counts <- filtered_data %>%
-  group_by(year, month) %>%
-  summarize(Num_Flights = sum(Flights))
+flight_counts <- summarize(group_by(filtered_data, year, month), Num_Flights = sum(Flights))
 
-filtered_flight_counts_2000_2002 <- flight_counts %>%
-  filter(year %in% c(2000, 2002))
-filtered_flight_counts_2018_2022 <- flight_counts %>%
-  filter(year %in% c(2018, 2022))
+filtered_flight_counts_2000_2002 <- filter(flight_counts, year == 2000 | year == 2002)
+filtered_flight_counts_2018_2022 <- filter(flight_counts, year == 2018 | year == 2022)
 
 ggplot(filtered_flight_counts_2000_2002, aes(x = month, y = Num_Flights, color = factor(year))) +
   geom_line(size = 1.5) +
