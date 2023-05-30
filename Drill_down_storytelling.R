@@ -2,7 +2,7 @@ library(dplyr)
 library(stringr)
 library(ggplot2)
 library(tidyr)
-data <- read.csv("flight_data.csv")
+data <- read.csv("full_dataset.csv")
 
 filtered_data <- data %>%
   filter(ORIGIN == "SEA" | DEST == "SEA")
@@ -25,7 +25,7 @@ clean_data <- new_data %>%
   filter(year == 2000)
 
 
-ggplot(clean_data, aes( x = Month , y = Flights, group = DEST, fill = DEST)) + ggtitle("Year 2000 Flights from Seattle") +
+story_3_viz_nine_2000 <- ggplot(clean_data, aes( x = Month , y = Flights, group = DEST, fill = DEST)) + ggtitle("Year 2000 Flights from Seattle") +
 geom_area()
 
 clean_data <- new_data %>%
@@ -33,7 +33,7 @@ clean_data <- new_data %>%
   filter(year == 2002)
 
 
-ggplot(clean_data, aes( x = Month , y = Flights, group = DEST, fill = DEST)) + ggtitle("Year 2002 Flights from Seattle") +
+story_3_viz_nine_2002 <- ggplot(clean_data, aes( x = Month , y = Flights, group = DEST, fill = DEST)) + ggtitle("Year 2002 Flights from Seattle") +
   geom_area()
 
 
@@ -53,7 +53,7 @@ clean_data <- new_data %>%
   filter(DEST %in% top_10_list) %>%
   filter(year == 2018)
 
-ggplot(clean_data, aes( x = Month , y = Flights, group = DEST, fill = DEST)) + ggtitle("Year 2018 Flights from Seattle") +
+story_3_viz_covid_2018 <- ggplot(clean_data, aes( x = Month , y = Flights, group = DEST, fill = DEST)) + ggtitle("Year 2018 Flights from Seattle") +
   geom_area()
 
  #2022
@@ -62,5 +62,5 @@ clean_data <- new_data %>%
   filter(DEST %in% top_10_list) %>%
   filter(year == 2022)
 
-ggplot(clean_data, aes( x = Month , y = Flights, group = DEST, fill = DEST)) + ggtitle("Year 2022 Flights from Seattle") +
+story_3_viz_covid_2022 <- ggplot(clean_data, aes( x = Month , y = Flights, group = DEST, fill = DEST)) + ggtitle("Year 2022 Flights from Seattle") +
   geom_area()
