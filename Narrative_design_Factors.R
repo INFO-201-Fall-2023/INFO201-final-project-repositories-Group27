@@ -36,12 +36,4 @@ viz2 <- viz2 + geom_text(aes(label = value), color = "white", size = 5)
 viz <- viz + scale_fill_viridis()
 viz2 <- viz2 + scale_fill_viridis()
 
-# Plot the modified visualizations
-print(viz)
-print(viz2)
 
-
-
-# Save plot to PNG
-ggsave("viz2.png", plot = viz2, width = 12, height = 8, dpi = 600)
-ggsave("viz.png", plot = viz, width = 12, height = 8, dpi = 600)
